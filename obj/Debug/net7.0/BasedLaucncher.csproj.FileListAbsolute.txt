@@ -1,0 +1,14 @@
+D:\.MAIN PROJECTS\Custom Software\BasedLaucncher\BasedLaucncher\bin\Debug\net7.0\BasedLaucncher.exe
+D:\.MAIN PROJECTS\Custom Software\BasedLaucncher\BasedLaucncher\bin\Debug\net7.0\BasedLaucncher.deps.json
+D:\.MAIN PROJECTS\Custom Software\BasedLaucncher\BasedLaucncher\bin\Debug\net7.0\BasedLaucncher.runtimeconfig.json
+D:\.MAIN PROJECTS\Custom Software\BasedLaucncher\BasedLaucncher\bin\Debug\net7.0\BasedLaucncher.dll
+D:\.MAIN PROJECTS\Custom Software\BasedLaucncher\BasedLaucncher\bin\Debug\net7.0\BasedLaucncher.pdb
+D:\.MAIN PROJECTS\Custom Software\BasedLaucncher\BasedLaucncher\obj\Debug\net7.0\BasedLaucncher.GeneratedMSBuildEditorConfig.editorconfig
+D:\.MAIN PROJECTS\Custom Software\BasedLaucncher\BasedLaucncher\obj\Debug\net7.0\BasedLaucncher.AssemblyInfoInputs.cache
+D:\.MAIN PROJECTS\Custom Software\BasedLaucncher\BasedLaucncher\obj\Debug\net7.0\BasedLaucncher.AssemblyInfo.cs
+D:\.MAIN PROJECTS\Custom Software\BasedLaucncher\BasedLaucncher\obj\Debug\net7.0\BasedLaucncher.csproj.CoreCompileInputs.cache
+D:\.MAIN PROJECTS\Custom Software\BasedLaucncher\BasedLaucncher\obj\Debug\net7.0\BasedLaucncher.dll
+D:\.MAIN PROJECTS\Custom Software\BasedLaucncher\BasedLaucncher\obj\Debug\net7.0\refint\BasedLaucncher.dll
+D:\.MAIN PROJECTS\Custom Software\BasedLaucncher\BasedLaucncher\obj\Debug\net7.0\BasedLaucncher.pdb
+D:\.MAIN PROJECTS\Custom Software\BasedLaucncher\BasedLaucncher\obj\Debug\net7.0\BasedLaucncher.genruntimeconfig.cache
+D:\.MAIN PROJECTS\Custom Software\BasedLaucncher\BasedLaucncher\obj\Debug\net7.0\ref\BasedLaucncher.dll
